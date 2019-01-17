@@ -12,7 +12,7 @@ This project was bootstrapped with `create-react-app` and deployed live at https
 
 `REACT_APP_API_KEY` : Goodreads API Key you can get from [here](https://www.goodreads.com/api/keys).
 
-Save it in the `.env` file as described [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-custom-environment-variables)
+Save it in the `.env` file.
 
 Having done that, here is how to run the application locally in development mode.
 
@@ -49,4 +49,7 @@ Right now there is only one test suite. (renders without crashing)
 
 # Future Implementation:
 
-Yet to be decided. 
+Some of the things that I want to implement in the future version are:
+
+1. Robust test suite for components test. 
+2. Sign in functionality to check on reviews and ratings. 
